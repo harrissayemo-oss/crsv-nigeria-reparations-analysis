@@ -32,53 +32,61 @@ This project establishes an empirical baseline of institutional culpability, lon
 ---
 
 ## Core Quantitative Architecture
+ore Quantitative Architecture
+Cumulative Actor-Violation Years (All Actors): 33 actor-years
 
-```text
-Cumulative Actor-Violation Years = ∑ (Years with max_prevalence ≥ 1) = 33
-├── State Institutional Liability        = 14 actor-years (42.4%)
-└── Insurgent Liability (JAS / ISWAP)    = 19 actor-years (57.6%)
+State Institutional Liability: 14 actor-years (42.4%)
 
-High-Risk Child Targeting (Prevalence ≥ 2) = 19 actor-years
----
+Insurgent Liability (JAS / ISWAP): 19 actor-years (57.6%)
 
-### PART 2: Copy and paste this directly below Part 1
+High-Risk Child Targeting (Prevalence ≥ 2): 19 actor-years
 
-```markdown
-> **Methodological Note on Units:** *Cumulative Actor-Violation Years (33)* measures aggregated institutional exposure across distinct armed entities (14 State + 19 Insurgent). In calendar years where both statutory armed forces and insurgent groups committed violations simultaneously, each entity accumulates an independent actor-year of liability under international humanitarian and human rights standards.
+Methodological Note on Units: Cumulative Actor-Violation Years (33) measures aggregated institutional exposure across distinct armed entities (14 State + 19 Insurgent). In calendar years where both statutory armed forces and insurgent groups committed violations simultaneously, each entity accumulates an independent actor-year of liability under international humanitarian and human rights standards.
 
----
+Strategic Policy Recommendations
+Establish a Standardized, Survivor-Led Reparations Registry:
 
-## Strategic Policy Recommendations
+Partner with local survivor networks and civil society organizations to design secure, trauma-informed intake mechanisms.
 
-1. **Establish a Standardized, Survivor-Led Reparations Registry:**
-   * Partner with local survivor networks and civil society organizations to design secure, trauma-informed intake mechanisms.
-   * Disaggregate survivor-demanded forms of redress across material compensation, clinical trauma support, legal identity documentation for children born of war, and symbolic community redress.
+Disaggregate survivor-demanded forms of redress across material compensation, clinical trauma support, legal identity documentation for children born of war, and symbolic community redress.
 
-2. **Operationalize Administrative Interim Reparative Measures (IRMs):**
-   * Decouple urgent victim assistance from judicial dockets. Given the direct liability of statutory forces (14 actor-years), the state must establish an administrative reparations fund to deliver urgent material relief without waiting for trial convictions.
+Operationalize Administrative Interim Reparative Measures (IRMs):
 
-3. **Incorporate Survivor Redress into Regional Security Frameworks:**
-   * Integrate structured victim consultation and compensation mechanisms into ongoing Disarmament, Demobilization, and Reintegration (DDR) and transitional justice programs in Northeast Nigeria.
+Decouple urgent victim assistance from judicial dockets. Given the direct liability of statutory forces (14 actor-years), the state must establish an administrative reparations fund to deliver urgent material relief without waiting for trial convictions.
 
----
+Incorporate Survivor Redress into Regional Security Frameworks:
 
-## Repository Structure
+Integrate structured victim consultation and compensation mechanisms into ongoing Disarmament, Demobilization, and Reintegration (DDR) and transitional justice programs in Northeast Nigeria.
 
-```text
-├── data/
-│   ├── raw_svac_nigeria.xlsx
-│   └── CRSV_Nigeria_Clean_Analytical_Dataset.csv
-├── docs/
-│   └── CRSV_Reparation_Deficit_Policy_Report_Sayemo_Harris.pdf
-├── dashboard/
-│   ├── CRSV_Nigeria_Reparations_Dashboard.pbix
-│   └── dashboard_preview.png
-└── README.md
-## Data Provenance & Attribution
+Repository Structure
+data/
 
-The empirical metrics in this study are derived from the **Sexual Violence in Armed Conflict (SVAC)** dataset:
-* **Source:** Peace Research Institute Oslo (PRIO), University of Gothenburg, and Harvard Kennedy School.
-* **Citation:** Cohen, Dara Kay, and Ragnhild Nordås. *Sexual Violence in Armed Conflict (SVAC) Dataset*.
-* **License:** Source data distributed under open academic access; project repository licensed under the MIT License.
-* **Project Adaptation Citation:**
-  > **Harris, Sayemo.** *Conflict-Related Sexual Violence (CRSV) & Reparation Deficits in Nigeria: An Empirical Policy Assessment (1995–2023)*. Analytical Dashboard & Policy Brief, 2026.
+raw_svac_nigeria.xlsx
+
+CRSV_Nigeria_Clean_Analytical_Dataset.csv
+
+docs/
+
+CRSV_Reparation_Deficit_Policy_Report_Sayemo_Harris.pdf
+
+dashboard/
+
+CRSV_Nigeria_Reparations_Dashboard.pbix
+
+dashboard_preview.png
+
+README.md
+
+Data Provenance & Attribution
+The empirical metrics in this study are derived from the Sexual Violence in Armed Conflict (SVAC) dataset:
+
+Source: Peace Research Institute Oslo (PRIO), University of Gothenburg, and Harvard Kennedy School.
+
+Citation: Cohen, Dara Kay, and Ragnhild Nordås. Sexual Violence in Armed Conflict (SVAC) Dataset.
+
+License: Source data distributed under open academic access; project repository licensed under the MIT License.
+
+Project Adaptation Citation:
+
+Harris, Sayemo. Conflict-Related Sexual Violence (CRSV) & Reparation Deficits in Nigeria: An Empirical Policy Assessment (1995–2023). Analytical Dashboard & Policy Brief, 2026.
+t-Related Sexual Violence (CRSV) & Reparation Deficits in Nigeria: An Empirical Policy Assessment (1995–2023)*. Analytical Dashboard & Policy Brief, 2026.
