@@ -58,14 +58,18 @@ This project establishes an empirical baseline of institutional culpability, lon
 
 ## Repository Structure
 
-* **`data/`**
-  * `raw_svac_nigeria.xlsx`
+* **`01_RAW_DATA/`**
+  * `SVAC_3.3_complete.xlsx`
+* **`02_PROCESSED_DATA/`**
   * `CRSV_Nigeria_Clean_Analytical_Dataset.csv`
-* **`docs/`**
-  * `CRSV_Reparation_Deficit_Policy_Report_Sayemo_Harris.pdf`
-* **`dashboard/`**
+  * `CRSV_Nigeria_Actor_Profile_Summary.csv`
+* **`03_SCRIPT/`**
+  * `CRSV_Nigeria_Reparations_Analysis.ipynb`
+* **`04_VISUALIZATION/`**
   * `CRSV_Nigeria_Reparations_Dashboard.pbix`
-  * `dashboard_preview.png`
+  * `CRSV_Nigeria_Reparations_Dashboard.pdf`
+* **`05_DOCUMENT/`**
+  * `Conflict-Related Sexual Violence (CRSV) & Reparation Deficits in Nigeria.docx`
 * **`README.md`**
 
 ---
