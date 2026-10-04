@@ -35,7 +35,9 @@ This project establishes an empirical baseline of institutional culpability, lon
 ```text
 Cumulative Actor-Violation Years = ∑ (Years with max_prevalence ≥ 1) = 33
 ├── State Institutional Liability        = 14 actor-years (42.4%)
-> **Methodological Note on Units:** *Cumulative Actor-Violation Years (33)* measures aggregated institutional exposure across distinct armed entities (14 State + 19 Insurgent). In calendar years where both statutory armed forces and insurgent groups committed violations simultaneously, each entity accumulates an independent actor-year of liability under international humanitarian and human rights standards.
+└── Insurgent Liability (JAS / ISWAP)    = 19 actor-years (57.6%)
+
+High-Risk Child Targeting (Prevalence ≥ 2) = 19 actor-years
 
 ---
 
