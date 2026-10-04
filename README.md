@@ -69,7 +69,7 @@ This project establishes an empirical baseline of documented violation frequency
   * `CRSV_Nigeria_Reparations_Dashboard.pbix`
   * `CRSV_Nigeria_Reparations_Dashboard.pdf`
 * **`05_DOCUMENT/`**
-  * `Conflict_Related_Sexual_Violence_Nigeria_Assessment_v1_2.docx`
+  * `Conflict_Related_Sexual_Violence_Nigeria_Assessment_report.pdf`
   * `CRSV_Nigeria_Policy_Advocacy_Brief_v1_2.pdf`
   * `CRSV_Nigeria_Executive_Briefing_Deck_v1_1.pptx`
 * **`README.md`**
