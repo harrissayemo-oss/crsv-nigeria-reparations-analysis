@@ -30,7 +30,6 @@ This project establishes an empirical baseline of institutional culpability, lon
 | **Cross-Conflict Aggregation** | **Combined Profile** | **33** | **3** | **3** | **1995 – 2023** |
 
 ---
-
 ## Core Quantitative Architecture
 
 ```text
