@@ -7,7 +7,7 @@
 ---
 
 ## Executive Summary
-
+![CRSV Nigeria Analytical Dashboard Preview](04_VISUALIZATION/dashboard_preview.png)
 This project establishes an empirical baseline of institutional culpability, longitudinal severity patterns, and post-conflict reparation deficits related to Conflict-Related Sexual Violence (CRSV) in Nigeria. Synthesizing standardized actor-level conflict data from 1995 to 2023, the analysis moves beyond localized case studies to construct a verifiable accountability architecture across sovereign security forces and non-state insurgent factions.
 
 ### Key Analytical Findings
