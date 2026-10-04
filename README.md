@@ -33,39 +33,9 @@ This project establishes an empirical baseline of institutional culpability, lon
 
 ## Core Quantitative Architecture
 
-$$\text{Cumulative Actor-Violation Years} = \sum_{\text{Actors}} (\text{Years with } \text{max\_prevalence} \ge 1) = \mathbf{33}$$
-
-$$\text{State Institutional Liability} = \mathbf{14} \text{ actor-years} \quad (42.4\%)$$
-
-$$\text{Insurgent Liability (JAS / ISWAP)} = \mathbf{19} \text{ actor-years} \quad (57.6\%)$$
-
-$$\text{High-Risk Child Targeting} = \sum_{\text{Actors}} (\text{Years with } \text{child\_prevalence} \ge 2) = \mathbf{19} \text{ actor-years}$$
-
-> **Methodological Note on Units:** *Cumulative Actor-Violation Years (33)* measures aggregated institutional exposure across distinct armed entities (14 State + 19 Insurgent). In calendar years where both statutory armed forces and insurgent groups committed violations simultaneously, each entity accumulates an independent actor-year of liability under international humanitarian and human rights standards.
-
----
-
-## Strategic Policy Recommendations
-
-1. **Establish a Standardized, Survivor-Led Reparations Registry:**
-   * Partner with local survivor networks and civil society organizations to design secure, trauma-informed intake mechanisms.
-   * Disaggregate survivor-demanded forms of redress across material compensation, clinical trauma support, legal identity documentation for children born of war, and symbolic community redress.
-2. **Operationalize Administrative Interim Reparative Measures (IRMs):**
-   * Decouple urgent victim assistance from judicial dockets. Given the direct liability of statutory forces (14 actor-years), the state must establish an administrative reparations fund to deliver urgent material relief without waiting for trial convictions.
-3. **Incorporate Survivor Redress into Regional Security Frameworks:**
-   * Integrate structured victim consultation and compensation mechanisms into ongoing Disarmament, Demobilization, and Reintegration (DDR) and transitional justice programs in Northeast Nigeria.
-
----
-
-## Repository Structure
-
 ```text
-├── data/
-│   ├── raw_svac_nigeria.xlsx
-│   └── CRSV_Nigeria_Clean_Analytical_Dataset.csv
-├── docs/
-│   └── CRSV_Reparation_Deficit_Policy_Report_Sayemo_Harris.pdf
-├── dashboard/
-│   ├── CRSV_Nigeria_Reparations_Dashboard.pbix
-│   └── dashboard_preview.png
-└── README.md
+Cumulative Actor-Violation Years = ∑ (Years with max_prevalence ≥ 1) = 33
+├── State Institutional Liability        = 14 actor-years (42.4%)
+└── Insurgent Liability (JAS / ISWAP)    = 19 actor-years (57.6%)
+
+High-Risk Child Targeting (Prevalence ≥ 2) = 19 actor-years
