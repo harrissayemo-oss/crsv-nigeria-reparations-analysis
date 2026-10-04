@@ -30,6 +30,7 @@ This project establishes an empirical baseline of institutional culpability, lon
 | **Cross-Conflict Aggregation** | **Combined Profile** | **33** | **3** | **3** | **1995 – 2023** |
 
 ---
+
 ## Core Quantitative Architecture
 
 ```text
@@ -38,6 +39,12 @@ Cumulative Actor-Violation Years = ∑ (Years with max_prevalence ≥ 1) = 33
 └── Insurgent Liability (JAS / ISWAP)    = 19 actor-years (57.6%)
 
 High-Risk Child Targeting (Prevalence ≥ 2) = 19 actor-years
+---
+
+### PART 2: Copy and paste this directly below Part 1
+
+```markdown
+> **Methodological Note on Units:** *Cumulative Actor-Violation Years (33)* measures aggregated institutional exposure across distinct armed entities (14 State + 19 Insurgent). In calendar years where both statutory armed forces and insurgent groups committed violations simultaneously, each entity accumulates an independent actor-year of liability under international humanitarian and human rights standards.
 
 ---
 
@@ -75,6 +82,3 @@ The empirical metrics in this study are derived from the **Sexual Violence in Ar
 * **License:** Source data distributed under open academic access; project repository licensed under the MIT License.
 * **Project Adaptation Citation:**
   > **Harris, Sayemo.** *Conflict-Related Sexual Violence (CRSV) & Reparation Deficits in Nigeria: An Empirical Policy Assessment (1995–2023)*. Analytical Dashboard & Policy Brief, 2026.
-└── Insurgent Liability (JAS / ISWAP)    = 19 actor-years (57.6%)
-
-High-Risk Child Targeting (Prevalence ≥ 2) = 19 actor-years
