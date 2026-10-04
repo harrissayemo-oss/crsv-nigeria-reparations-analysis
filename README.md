@@ -32,7 +32,6 @@ This project establishes an empirical baseline of institutional culpability, lon
 ---
 
 ## Core Quantitative Architecture
-ore Quantitative Architecture
 Cumulative Actor-Violation Years (All Actors): 33 actor-years
 
 State Institutional Liability: 14 actor-years (42.4%)
