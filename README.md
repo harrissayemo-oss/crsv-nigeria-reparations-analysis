@@ -2,21 +2,22 @@
 
 **Author:** Sayemo Harris  
 **Date:** October 2026  
-**License:** MIT License  
+**License:** Code: MIT License | Documentation & Analysis: CC BY 4.0  
 
 ---
 
 ## Executive Summary
 ![CRSV Nigeria Analytical Dashboard Preview](04_VISUALIZATION/dashboard_preview.png)
-This project establishes an empirical baseline of documented violation frequency, longitudinal severity patterns, and post-conflict reparation deficits related to Conflict-Related Sexual Violence (CRSV) in Nigeria. Grounded in standardized, longitudinal conflict-actor data from 1995 to 2023, the analysis moves beyond localized case studies to construct a verifiable empirical architecture across sovereign security forces and non-state insurgent factions.
+
+This project provides an empirical evaluation of Conflict-Related Sexual Violence (CRSV) in Nigeria over a 28-year period (1995–2023). Using standardized, long-term conflict data from the SVAC dataset, the analysis tracks documented violation frequency, severity patterns, and the lack of accessible victim compensation across both government security forces and non-state insurgent groups.
 
 ### Key Analytical Findings
 
-* **Aggregated Institutional Exposure (33 Cumulative Actor-Violation Years):** Between 1995 and 2023, armed actors in Nigeria accumulated a combined 33 actor-years of active, documented sexual violence. Because state forces and insurgent groups operated concurrently during high-intensity conflict phases, this total reflects additive actor-year observations across concurrent forces, rather than 33 unique calendar years of conflict.
-* **Direct State Institutional Footprint (14 Actor-Years / 42.4%):** Statutory armed forces (incorporating military formations and police commands) account for 14 documented violation actor-years between 2004 and 2019. Because statutory actors bear positive human rights and international humanitarian law obligations, this substantial empirical footprint provides a compelling imperative for the state to fulfill positive duties through administrative redress and structural guarantees of non-recurrence.
-* **Protracted Insurgent Severity (19 Actor-Years / 57.6%):** Non-State Armed Groups—specifically Boko Haram (Jamā'at Ahl as-Sunnah lid-Da'wah wa'l-Jihād - JAS) and the Islamic State West Africa Province (ISWAP)—demonstrate sustained violations, maintaining peak systematic severity (prevalence level 3) continuously through 2023.
-* **High-Risk Targeting of Children (19 Actor-Years):** In 19 actor-years, documented violations against children reached massive or systematic proportions (prevalence score ≥ 2), highlighting a protracted vulnerability profile requiring specialized, multi-generational reparative and educational frameworks.
-* **The Structural Reparations Deficit:** Despite clear empirical evidence of systematic harm spanning decades, victim redress remains structurally inaccessible within existing legal frameworks. Because redress is theoretically subordinated to individual criminal prosecutions—where perpetrators are largely unidentifiable, deceased, or beyond legal reach—and because existing counter-terrorism dockets focus exclusively on state security rather than victim restitution, thousands of survivors receive zero urgent medical care, fistula repair, or rehabilitation. There is an acute policy deficit in dedicated, non-judicial administrative reparations and Interim Reparative Measures (IRMs).
+* **Combined Years of Documented Abuse (33 Actor-Years):** Between 1995 and 2023, armed actors in Nigeria recorded a combined total of 33 actor-years of sexual violence. Because state forces and insurgent groups operated at the same time during intense phases of conflict, this number counts each group’s recorded actions separately, rather than 33 individual calendar years.
+* **Documented State Security Force Involvements (14 Actor-Years / 42.4%):** Government security forces (incorporating military formations and police commands) account for 14 recorded actor-years of violations between 2004 and 2019. Because the state carries legal duties under national and international law to protect citizens and safeguard human rights, these findings highlight the state's responsibility to deliver administrative reparations and ensure structural guarantees of non-recurrence.
+* **Protracted Insurgent Severity (19 Actor-Years / 57.6%):** Non-state armed groups—specifically Boko Haram (JAS) and the Islamic State West Africa Province (ISWAP)—demonstrate sustained violations, maintaining peak systematic severity (Level 3) continuously through 2023.
+* **Severe Prevalence Involving Children (19 Actor-Years):** In 19 actor-years, documented violence against children reached massive or systematic proportions (prevalence score ≥ 2). This highlights an urgent need for multi-generational healthcare, schooling support, and legal identity documentation for affected families.
+* **The Gap in Support for Survivors:** Even though the data shows decades of widespread harm, survivors have no viable path to victim compensation. In reality, there is no framework in place for victim compensation—whether an attacker is convicted in court or not. Individual fighters are largely unidentified, deceased, or dispersed in remote bush areas, making civil recovery impossible. At the same time, counter-terrorism trials and military dockets focus strictly on state security offenses, offering zero restitution or financial remedy to victims. As a result, thousands of survivors receive zero urgent medical care, specialized fistula repair, or trauma counseling. Dedicated, non-judicial administrative reparations are urgently required to close this gap.
 
 ---
 
@@ -42,17 +43,20 @@ This project establishes an empirical baseline of documented violation frequency
 
 ---
 
-## Strategic Policy Recommendations
+## Practical Policy Recommendations
 
-1. **Establish a Standardized, Survivor-Led Reparations Registry:**
-   * Partner with local survivor networks and civil society organizations to design secure, trauma-informed intake mechanisms.
-   * Disaggregate survivor-demanded forms of redress across material compensation, clinical trauma support, legal identity documentation for children born of war, and symbolic community redress.
+1. **Establish a Standardized, Survivor-Led Registration System:**
+   * Partner with local survivor networks and civil society organizations to design secure, trauma-informed intake procedures.
+   * Provide comprehensive assistance covering financial and material support, specialized fistula and medical surgery, trauma counseling, and legal identity documentation and schooling support for children born of war.
 
-2. **Operationalize Administrative Interim Reparative Measures (IRMs):**
-   * Decouple urgent victim assistance from inaccessible judicial dockets. Given the direct exposure share of statutory forces (14 actor-years), the state must establish an administrative reparations fund to deliver urgent material relief without waiting for individual criminal prosecutions or peace settlements.
+2. **Set Up an Administrative Reparations Board:**
+   * Decouple victim compensation and survivor care from criminal courtroom dockets. The Federal Government and Northeast state authorities should establish an administrative reparations fund to deliver direct material relief, healthcare vouchers, and stabilization grants without waiting for perpetrator trials or peace settlements.
 
-3. **Incorporate Survivor Redress into Regional Security Frameworks:**
+3. **Incorporate Survivor Support into Regional Security & Peace Frameworks:**
    * Integrate structured victim consultation and compensation mechanisms into ongoing Disarmament, Demobilization, and Reintegration (DDR) and transitional justice programs in Northeast Nigeria to ensure assistance aligns directly with survivor priorities.
+
+4. **Ensure Guarantees of Non-Recurrence:**
+   * Grounded in the 14 documented violation years involving statutory security forces, institute clear security sector reforms by embedding enforceable human rights codes into operational rules of engagement and establishing independent oversight units.
 
 ---
 
@@ -76,11 +80,13 @@ This project establishes an empirical baseline of documented violation frequency
 
 ---
 
-## Data Provenance & Attribution
+## Data Provenance, Methodology & Attribution
 
-The empirical metrics in this study are derived from the **Sexual Violence in Armed Conflict (SVAC)** dataset:
+The quantitative metrics in this study are derived from the **Sexual Violence in Armed Conflict (SVAC)** dataset:
 * **Source:** Peace Research Institute Oslo (PRIO), University of Gothenburg, and Harvard Kennedy School.
-* **Citation:** Cohen, Dara Kay, and Ragnhild Nordås. *Sexual Violence in Armed Conflict (SVAC) Dataset*.
-* **Data Licensing:** Source data distributed under PRIO/Harvard open-access academic research terms; repository analytical model and code licensed under the MIT License; written assessment licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
+* **Core Dataset:** SVAC Actor-Year Dataset (Version 3.3).
+* **Citation:** Cohen, Dara Kay, and Ragnhild Nordås. *Sexual Violence in Armed Conflict (SVAC) Dataset*. Peace Research Institute Oslo (PRIO) & Harvard Kennedy School.
+* **Primary Documentation Streams:** Triangulated monitoring from UN Secretary-General Annual Reports, US State Department Country Reports on Human Rights Practices, and reporting from Amnesty International and Human Rights Watch.
+* **Licensing:** Source dataset distributed under PRIO/Harvard open-access academic terms. Repository analytical scripts and data models are licensed under the [MIT License](LICENSE). The written reports, policy briefs, and derived findings are licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) License.
 * **Project Adaptation Citation:**
-  > **Harris, Sayemo.** *Conflict-Related Sexual Violence (CRSV) & Reparation Deficits in Nigeria: An Empirical Policy Assessment (1995–2023)*. Analytical Dashboard & Policy Brief, 2026.
+  > **Harris, Sayemo.** *Conflict-Related Sexual Violence (CRSV) & Reparation Deficits in Nigeria: An Empirical Policy Assessment (1995–2023)*. Analytical Dashboard & Policy Brief, 2026. Repository: https://github.com/harrissayemo-oss/crsv-nigeria-reparations-analysis
